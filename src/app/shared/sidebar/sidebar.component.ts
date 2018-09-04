@@ -11,7 +11,7 @@ declare var $: any;
 })
 export class SidebarComponent implements OnInit {
   showMenu = '';
-  showSubMenu = '';
+
   public sidebarnavItems: any[];
   // this is for the open close
   addExpandClass(element: any) {
@@ -19,13 +19,6 @@ export class SidebarComponent implements OnInit {
       this.showMenu = '0';
     } else {
       this.showMenu = element;
-    }
-  }
-  addActiveClass(element: any) {
-    if (element === this.showSubMenu) {
-      this.showSubMenu = '0';
-    } else {
-      this.showSubMenu = element;
     }
   }
 
