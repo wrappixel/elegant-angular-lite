@@ -13,14 +13,16 @@ declare var $: any;
   templateUrl: './navigation.component.html'
 })
 export class NavigationComponent implements AfterViewInit {
-  @Output() toggleSidebar = new EventEmitter<void>();
-  @Output() toggleRightSidebar = new EventEmitter<void>();
+  @Output()
+  toggleSidebar = new EventEmitter<void>();
+  @Output()
+  toggleRightSidebar = new EventEmitter<void>();
 
   public config: PerfectScrollbarConfigInterface = {};
 
   public showSearch = false;
 
-  constructor(private modalService: NgbModal) { }
+  constructor(private modalService: NgbModal) {}
 
   // This is for Notifications
   notifications: Object[] = [
@@ -86,5 +88,5 @@ export class NavigationComponent implements AfterViewInit {
     }
   ];
 
-  ngAfterViewInit() { }
+  ngAfterViewInit() {}
 }
