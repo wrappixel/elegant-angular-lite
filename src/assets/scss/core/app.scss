@@ -32,28 +32,6 @@
         margin-bottom: 0px;
         margin-top: 0px;
     }
-    .breadcrumb {
-        padding: 0px;
-        margin: 0px;
-        background: transparent;
-        font-size: 12px;
-        li {
-            
-            a{
-                color:$body-color;
-            }
-        }
-        .breadcrumb-item+.breadcrumb-item::before {
-            content: "\e649";
-            font-family: themify;
-            color: $gray-400;
-            font-size: 11px;
-        }
-        .breadcrumb-item.active {
-            color: $themecolor;
-            font-weight: 500;
-        }
-    }
 }
 .dropdown-menu{
     padding: 0px;
