@@ -1,3 +1,5 @@
+<img src="https://wrappixel.com/wp-content/uploads/2017/03/wp-updated-logo.jpg" />
+
 # elegant-angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
