@@ -1,5 +1,5 @@
 <a href="https://wrappixel.com"><img src="https://wrappixel.com/wp-content/uploads/2017/03/wp-updated-logo.jpg" /></a>
-<a href="https://wrappixel.com">Wrappixel For more info</a>
+<a href="https://wrappixel.com/templates/elegant-admin-lite/"><img src="https://wrappixel.com/demos/images/elegant-pro-promotion.jpg"/></a>
 # elegant-angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
