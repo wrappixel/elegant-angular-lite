@@ -1,4 +1,4 @@
-<a href="https://wrappixel.com"><img src="https://wrappixel.com/wp-content/uploads/2017/03/wp-updated-logo.jpg" /></a>
+<a href="https://wrappixel.com"><img src="https://wrappixel.com/wp-content/uploads/2017/03/wp-updated-logo.jpg" /></a><br/>
 <a href="https://wrappixel.com/templates/elegant-admin-lite/"><img src="https://wrappixel.com/demos/images/elegant-pro-promotion.jpg"/></a>
 # elegant-angular
 
