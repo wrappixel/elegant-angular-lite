@@ -2,7 +2,8 @@
 <a href="https://wrappixel.com/templates/elegant-admin/"><img src="https://wrappixel.com/demos/images/elegant-pro-promotion.jpg"/></a>
 # elegant-angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.check for lite <h3><a href="https://wrappixel.com/demos/free-admin-templates/elegant-admin-lite/lite/index.html">Demo</a></h3>
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
+Check for Lite <h3><a href="https://wrappixel.com/demos/free-admin-templates/elegant-admin-lite/lite/index.html">Demo</a></h3>
 
 ## Development server
 
