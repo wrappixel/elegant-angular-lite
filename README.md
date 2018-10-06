@@ -3,7 +3,7 @@
 # elegant-angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
-Check for Lite Version<h3><a href="https://wrappixel.com/demos/free-admin-templates/elegant-admin-lite/lite/index.html">Demo</a></h3>
+Check for Lite Version <a href="https://wrappixel.com/demos/free-admin-templates/elegant-admin-lite/lite/index.html"><h3>Demo</h3></a>
 
 ## Development server
 
