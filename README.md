@@ -1,8 +1,7 @@
-<a href="https://wrappixel.com"><img src="https://wrappixel.com/wp-content/uploads/2017/03/wp-updated-logo.jpg" /></a><br/>
-<a href="https://wrappixel.com/templates/elegant-admin/"><img src="https://wrappixel.com/demos/images/elegant-pro-promotion.jpg"/></a>
-# elegant-angular
+# elegant-admin-angular-lite
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
+<h4><a href="https://www.wrappixel.com/demos/free-admin-templates/elegant-angular-lite/starter">Free Version Demo Link</a></h4>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
