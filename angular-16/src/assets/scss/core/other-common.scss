@@ -1,0 +1,31 @@
+/*******************
+Other comon scss for all pages
+*******************/
+// Custom select
+.custom-select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -o-appearance: none;
+  background-size: auto;
+}
+
+.no-shrink {
+    flex-shrink: 0;
+}
+.up-img{
+    background-size: cover;
+    background-position: center center;
+    min-height:340px;
+}
+.badge.badge-pill{
+    padding: $badge-pill-padding-x $badge-pill-padding-y;
+}
+/*******************
+list-inline
+******************/
+ul.list-inline{
+    li{
+        display: inline-block;
+        margin: 0 5px;
+    }
+}
